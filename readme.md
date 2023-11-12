@@ -1,5 +1,7 @@
 # C# Event Handling Example: Xmas Tree Printers
 
+![Alt text](image.png)
+
 ## Overview
 This project demonstrates the use of events in C#. It consists of a `XmasTree` class that sends tree pattern data to different printer classes (`ColorPrinter` and `NormalPrinter`) using events. The printers subscribe to the `XmasTree`'s event and react differently based on the type of printer.
 
